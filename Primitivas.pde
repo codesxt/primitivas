@@ -1,6 +1,6 @@
 /*
  * Comparación de primitivas
- * Autor: Bruno Faúndez Valenzuela
+ * Autores: Bruno Faúndez Valenzuela, Maximiliano Tapia Quiroz
  * Licencia: GPL v3
  */
 
