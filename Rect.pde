@@ -20,7 +20,7 @@ void drawRect(int x1, int y1, int x2, int y2){
     c = 2 * hx;
     m = 2 * hy;
     while(true){
-      set(x, y, c);
+      set(x, y, col);
       if(x == x2){
         break;
       }
@@ -35,7 +35,7 @@ void drawRect(int x1, int y1, int x2, int y2){
     c = 2 * hy;
     m = 2 * hx;
     while(true){
-      set(x, y, c);
+      set(x, y, col);
       if(y == y2){
         break;
       }
